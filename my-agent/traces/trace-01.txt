@@ -1,0 +1,2 @@
+{"student_id": "STU-001", "count": 2, "records": [{"lesson_date": "2026-09-28", "subject": "수학", "notes": "분수 연산 복습"}, {"lesson_date": "2026-10-12", "subject": "수학", "notes": "분수 응용문제 풀이"}]}
+{"error": "STUDENT_NOT_FOUND"}
